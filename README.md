@@ -8,9 +8,7 @@ This project demonstrates how to use a pre-trained CycleGAN model to transform r
 
 ```
 GANS_mini_project_image.ipynb     # Main notebook
-gen_G_epoch_10.h5                 # Pre-trained Generator (Photo → Monet)
-gen_F_epoch_10.h5                 # Pre-trained Generator (Monet → Photo)
-/images                           # Folder for test input images (JPG)
+leaderboard score_kaggle          # Kaggle score card
 ```
 
 ---
@@ -66,12 +64,6 @@ gen_F_epoch_10.h5                 # Pre-trained Generator (Monet → Photo)
 
    Use Jupyter or VSCode to run `GANS_mini_project_image.ipynb`.  
    This will display several generated Monet-style images inline using `matplotlib`.
-
----
-
-## Sample Output
-
-![example](./example_output.png) <!-- Replace or update if applicable -->
 
 ---
 
